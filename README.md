@@ -13,4 +13,4 @@ My name is Monique Ferreira and I use GitHub for Data Science, Cloud Computing &
 - :octocat: My main hobbies are ballet dancing & watercolour painting.
 - 💬 I love to learn new languages! I speak English, French, Portuguese and Spanish. My German ist kaputt though...
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ferreiramonique/) |  [:e-mail: E-mail](mailto:moniquecalmon@poli.ufrj.br)
+![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/ferreiramonique/) | :e-mail: [E-mail](mailto:moniquecalmon@poli.ufrj.br)
