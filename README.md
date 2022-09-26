@@ -6,9 +6,10 @@
 
 My name is Monique and I use GitHub for Software Development, Cloud Computing, Data Science & IoT projects, as well as tech courses and coding challenges.
 
-- 👩‍💻 I work with Back-End Development & Cloud (AWS) at Accenture.
-- 🎓 I have a Graduate degree in Electrical Engineering (UFRJ) and a Master of Engineering degree in System Integration (IMT Atlantique).
-- ✨ I am an Ambassador for the 'WiDS - Women in Data Science' organization in London and Rio de Janeiro. Glad to be able to promote inclusiveness and diversity in STEM!
+- 👩‍💻 I work with Back-End Development & Cloud (AWS) at Accenture;
+- :scroll: AWS Certified Solutions Architect - Associate;
+- 🎓 Master of Engineering - System Integration (IMT Atlantique, France) | Graduate degree - Electrical Engineering (UFRJ, Brazil);
+- ✨ I am also an Ambassador for the 'WiDS - Women in Data Science' organization in London and Rio de Janeiro. Glad to be able to promote inclusiveness and diversity in STEM!
 
 
 Contact me:  
