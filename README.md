@@ -6,9 +6,9 @@
 
 My name is Monique and I use GitHub for Software Development, Cloud Computing, Data Science & IoT projects, as well as tech courses and coding challenges.
 
-- 👩‍💻 I work with Back-End Development & Cloud (AWS) at Accenture;
-- :scroll: MIET | AWS Certified Solutions Architect - Associate;
-- 🎓 MEng (IMT Atlantique, France) | BEng (UFRJ, Brazil);
+- 👩‍💻 I work with Back-End Development & Cloud (AWS) at Accenture
+- :scroll: AWS Certified Solutions Architect - Associate
+- 🎓 MEng (IMT Atlantique, France) | BEng (UFRJ, Brazil) | MIET | MBCS
 
 
 Contact me:  
