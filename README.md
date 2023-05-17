@@ -12,4 +12,4 @@ My name is Monique and I use GitHub for Software Development, Cloud Computing, D
 
 
 Contact me:  
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ferreiramonique/) | [:e-mail: E-mail](mailto:monique.calmon@outlook.com)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/moniquegrinstein/) | [:e-mail: E-mail](mailto:monique.calmon@outlook.com)
