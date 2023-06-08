@@ -1,15 +1,20 @@
-### Hi there 👋
+## Hello, World! 👋
+I'm Monique Grinstein, a Software Engineer based in London.
 
-<!--
-**ferreiramonique/ferreiramonique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- :briefcase: (on vacation :boat:) <br>
+- :mortar_board: MEng _(IMT Atlantique, France)_ | BEng _(UFRJ, Brazil)_ <br>
+- :scroll: AWS Certified Solutions Architect - Associate <br>
+- :card_index: Member of: IET | BCS <br>
+<br>
 
-My name is Monique and I use GitHub for Software Development, Cloud Computing, Data Science & IoT projects, as well as tech courses and coding challenges.
-
-- 👩‍💻 I work with Back-End Development & Cloud (AWS) at Accenture
-- :scroll: AWS Certified Solutions Architect - Associate
-- 🎓 MEng (IMT Atlantique, France) | BEng (UFRJ, Brazil) | MIET | MBCS
-
-
-Contact me:  
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/moniquegrinstein/) | [:e-mail: E-mail](mailto:monique.calmon@outlook.com)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+#
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moniquegrinstein)
+[![Email](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:grinsteinmonique@gmail.com)
