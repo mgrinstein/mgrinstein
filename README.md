@@ -1,7 +1,7 @@
 ## Hello, World! 👋
 I'm Monique Grinstein, a Software Engineer based in London.
 
-- :briefcase: (on vacation :boat:) <br>
+- :briefcase: the LEGO Group <br>
 - :mortar_board: MEng _(IMT Atlantique, France)_ | BEng _(UFRJ, Brazil)_ <br>
 - :scroll: AWS Certified Solutions Architect - Associate <br>
 - :card_index: Member of: IET | BCS <br>
