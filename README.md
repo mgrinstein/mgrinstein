@@ -18,3 +18,4 @@ I'm Monique Grinstein, a Software Engineer based in London.
 #
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moniquegrinstein)
 [![Email](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:grinsteinmonique@gmail.com)
+[![Medium](https://img.shields.io/badge/-Medium-3b3b3b?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@grinsteinmonique)
