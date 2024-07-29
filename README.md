@@ -7,6 +7,7 @@ I'm Monique Grinstein, a Software Engineer based in London.
 <br>
 
 :scroll: AWS Certified Solutions Architect - Associate <br>
+:scroll: AWS Certified Developer - Associate <br>
 :scroll: AWS Certified Cloud Practitioner <br>
 <br>
 
